@@ -1,1 +1,3 @@
-<h1>HAHAHAHAHAHA</h1>
+<?php
+	print("Yolo")
+?>
